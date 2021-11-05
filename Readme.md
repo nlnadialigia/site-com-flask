@@ -3,14 +3,14 @@
 </p>
 
 <h1 align="center">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nlnadialigia/site-flask?color=89115E&style=plastic">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nlnadialigia/site-com-flask?color=89115E&style=plastic">
 
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/nlnadialigia/site-flask?color=89115E&style=plastic">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/nlnadialigia/site-com-flask?color=89115E&style=plastic">
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/nlnadialigia/site-flask?color=89115E&logoColor=89115E&style=plastic">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/nlnadialigia/site-com-flask?color=89115E&logoColor=89115E&style=plastic">
   
   <a href="./LICENSE.md">
-  <img alt="License" src="https://img.shields.io/github/license/nlnadialigia/site-flask?color=89115E&style=plastic">
+  <img alt="License" src="https://img.shields.io/github/license/nlnadialigia/site-com-flask?color=89115E&style=plastic">
   </a>
 </h1>
 <br>
